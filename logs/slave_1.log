@@ -1,0 +1,27 @@
+2026-05-05 09:45:29,485 [ESCLAVO-1] INFO - ★ Esclavo-1 arrancado ★
+2026-05-05 09:45:29,485 [ESCLAVO-1] INFO - Deriva inicial del reloj: +5.762s
+2026-05-05 09:45:29,486 [ESCLAVO-1] INFO - Esclavo-1 escuchando en 127.0.0.1:5001
+2026-05-05 09:45:34,500 [ESCLAVO-1] INFO - Hora solicitada → 09:45:40.262691
+2026-05-05 09:45:34,510 [ESCLAVO-1] INFO - Reloj ajustado: offset +5.762s → +3.548s (delta=-2.215s)
+2026-05-05 09:45:44,518 [ESCLAVO-1] INFO - Hora solicitada → 09:45:48.065992
+2026-05-05 09:45:44,526 [ESCLAVO-1] INFO - Reloj ajustado: offset +3.548s → +2.123s (delta=-1.425s)
+2026-05-05 09:45:54,536 [ESCLAVO-1] INFO - Hora solicitada → 09:45:56.658819
+2026-05-05 09:45:54,544 [ESCLAVO-1] INFO - Reloj ajustado: offset +2.123s → +0.849s (delta=-1.273s)
+2026-05-05 09:45:58,514 [ESCLAVO-1] INFO - Nuevo maestro elegido: Nodo-2
+2026-05-05 09:45:58,527 [ESCLAVO-1] INFO - Reloj ajustado: offset +0.849s → +0.847s (delta=-0.003s)
+2026-05-05 09:46:08,536 [ESCLAVO-1] INFO - Reloj ajustado: offset +0.847s → +0.847s (delta=+0.000s)
+[ESCLAVO-1] INFO - ★ Esclavo-1 arrancado ★
+[ESCLAVO-1] INFO - Deriva inicial del reloj: +7.854s
+[ESCLAVO-1] INFO - Esclavo-1 escuchando en 127.0.0.1:5001
+[ESCLAVO-1] INFO - Hora solicitada → 09:49:40.975210
+[ESCLAVO-1] INFO - Reloj ajustado: offset +7.854s → +0.361s (delta=-7.493s)
+[ESCLAVO-1] INFO - Hora solicitada → 09:49:43.497834
+[ESCLAVO-1] INFO - Reloj ajustado: offset +0.361s → +0.271s (delta=-0.090s)
+[ESCLAVO-1] INFO - Hora solicitada → 09:49:53.423278
+[ESCLAVO-1] INFO - Reloj ajustado: offset +0.271s → +0.347s (delta=+0.076s)
+[ESCLAVO-1] WARNING - El maestro no responde.
+[ESCLAVO-1] WARNING - ¡Maestro caído! Iniciando proceso de elección...
+[ESCLAVO-1] INFO - Nodo-2 responde con mayor prioridad, él tomará el control.
+[ESCLAVO-1] INFO - Nuevo maestro elegido: Nodo-2
+[ESCLAVO-1] INFO - Reloj ajustado: offset +0.347s → +0.345s (delta=-0.002s)
+[ESCLAVO-1] INFO - Reloj ajustado: offset +0.345s → +0.344s (delta=-0.000s)

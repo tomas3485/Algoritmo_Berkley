@@ -1,0 +1,56 @@
+2026-05-05 09:45:29,482 [ESCLAVO-2] INFO - ★ Esclavo-2 arrancado ★
+2026-05-05 09:45:29,482 [ESCLAVO-2] INFO - Deriva inicial del reloj: +6.593s
+2026-05-05 09:45:29,483 [ESCLAVO-2] INFO - Esclavo-2 escuchando en 127.0.0.1:5002
+2026-05-05 09:45:34,505 [ESCLAVO-2] INFO - Hora solicitada → 09:45:41.098046
+2026-05-05 09:45:34,513 [ESCLAVO-2] INFO - Reloj ajustado: offset +6.593s → +3.543s (delta=-3.050s)
+2026-05-05 09:45:44,521 [ESCLAVO-2] INFO - Hora solicitada → 09:45:48.064110
+2026-05-05 09:45:44,529 [ESCLAVO-2] INFO - Reloj ajustado: offset +3.543s → +2.119s (delta=-1.423s)
+2026-05-05 09:45:54,540 [ESCLAVO-2] INFO - Hora solicitada → 09:45:56.659373
+2026-05-05 09:45:54,546 [ESCLAVO-2] INFO - Reloj ajustado: offset +2.119s → +0.845s (delta=-1.274s)
+2026-05-05 09:45:58,512 [ESCLAVO-2] WARNING - El maestro no responde.
+2026-05-05 09:45:58,512 [ESCLAVO-2] WARNING - ¡Maestro caído! Iniciando proceso de elección...
+2026-05-05 09:45:58,512 [ESCLAVO-2] INFO - ★ Esclavo-2 se convierte en el nuevo MAESTRO ★
+2026-05-05 09:45:58,517 [ESCLAVO-2] INFO - Asumiendo tareas de sincronización como nuevo maestro.
+2026-05-05 09:45:58,518 [ESCLAVO-2] INFO - Mensaje de elección recibido de ('127.0.0.1', 44350)
+2026-05-05 09:45:58,519 [ESCLAVO-2] INFO - ────────────────────────────────────────
+2026-05-05 09:45:58,520 [ESCLAVO-2] INFO - [NUEVO MAESTRO] Iniciando ronda de sincronización
+2026-05-05 09:45:58,523 [ESCLAVO-2] INFO - Hora de Esclavo-1: 09:45:59.372277
+2026-05-05 09:45:58,524 [ESCLAVO-2] INFO - Hora promedio: 09:45:59.369443
+2026-05-05 09:45:58,525 [ESCLAVO-2] INFO - Reloj ajustado: offset +0.845s → +0.848s (delta=+0.003s)
+2026-05-05 09:45:58,528 [ESCLAVO-2] INFO - [NUEVO MAESTRO] Ronda completada
+2026-05-05 09:46:04,522 [ESCLAVO-2] INFO - Mensaje de elección recibido de ('127.0.0.1', 38712)
+2026-05-05 09:46:08,529 [ESCLAVO-2] INFO - ────────────────────────────────────────
+2026-05-05 09:46:08,530 [ESCLAVO-2] INFO - [NUEVO MAESTRO] Iniciando ronda de sincronización
+2026-05-05 09:46:08,532 [ESCLAVO-2] INFO - Hora de Esclavo-1: 09:46:09.378479
+2026-05-05 09:46:08,533 [ESCLAVO-2] INFO - Hora promedio: 09:46:09.378572
+2026-05-05 09:46:08,534 [ESCLAVO-2] INFO - Reloj ajustado: offset +0.848s → +0.848s (delta=-0.000s)
+2026-05-05 09:46:08,537 [ESCLAVO-2] INFO - [NUEVO MAESTRO] Ronda completada
+2026-05-05 09:46:10,526 [ESCLAVO-2] INFO - Mensaje de elección recibido de ('127.0.0.1', 38714)
+[ESCLAVO-2] INFO - ★ Esclavo-2 arrancado ★
+[ESCLAVO-2] INFO - Deriva inicial del reloj: -7.925s
+[ESCLAVO-2] INFO - Esclavo-2 escuchando en 127.0.0.1:5002
+[ESCLAVO-2] INFO - Hora solicitada → 09:49:25.198174
+[ESCLAVO-2] INFO - Reloj ajustado: offset -7.925s → +0.359s (delta=+8.284s)
+[ESCLAVO-2] INFO - Hora solicitada → 09:49:43.498927
+[ESCLAVO-2] INFO - Reloj ajustado: offset +0.359s → +0.267s (delta=-0.091s)
+[ESCLAVO-2] INFO - Hora solicitada → 09:49:53.422097
+[ESCLAVO-2] INFO - Reloj ajustado: offset +0.267s → +0.344s (delta=+0.077s)
+[ESCLAVO-2] INFO - Mensaje de elección recibido de ('127.0.0.1', 34044)
+[ESCLAVO-2] WARNING - El maestro no responde.
+[ESCLAVO-2] WARNING - ¡Maestro caído! Iniciando proceso de elección...
+[ESCLAVO-2] INFO - ★ Esclavo-2 se convierte en el nuevo MAESTRO ★
+[ESCLAVO-2] INFO - Asumiendo tareas de sincronización como nuevo maestro.
+[ESCLAVO-2] INFO - ────────────────────────────────────────
+[ESCLAVO-2] INFO - [NUEVO MAESTRO] Iniciando ronda de sincronización
+[ESCLAVO-2] INFO - Hora de Esclavo-1: 09:49:57.420829
+[ESCLAVO-2] INFO - Hora promedio: 09:49:57.418899
+[ESCLAVO-2] INFO - Reloj ajustado: offset +0.344s → +0.346s (delta=+0.002s)
+[ESCLAVO-2] INFO - [NUEVO MAESTRO] Ronda completada
+[ESCLAVO-2] INFO - Mensaje de elección recibido de ('127.0.0.1', 34046)
+[ESCLAVO-2] INFO - ────────────────────────────────────────
+[ESCLAVO-2] INFO - [NUEVO MAESTRO] Iniciando ronda de sincronización
+[ESCLAVO-2] INFO - Hora de Esclavo-1: 09:50:07.427265
+[ESCLAVO-2] INFO - Hora promedio: 09:50:07.427130
+[ESCLAVO-2] INFO - Reloj ajustado: offset +0.346s → +0.346s (delta=+0.000s)
+[ESCLAVO-2] INFO - [NUEVO MAESTRO] Ronda completada
+[ESCLAVO-2] INFO - Esclavo-2 detenido manualmente.

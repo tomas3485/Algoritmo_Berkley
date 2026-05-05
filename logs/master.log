@@ -1,0 +1,100 @@
+2026-05-05 09:45:31,488 [MAESTRO] INFO - ★ Nodo MAESTRO arrancado ★
+2026-05-05 09:45:31,489 [MAESTRO] INFO - Esperando 3 segundos a que los esclavos estén listos...
+2026-05-05 09:45:31,489 [MAESTRO] INFO - Maestro escuchando en 127.0.0.1:5000
+2026-05-05 09:45:34,489 [MAESTRO] INFO - ==================================================
+2026-05-05 09:45:34,490 [MAESTRO] INFO - Iniciando ronda de sincronización Berkeley
+2026-05-05 09:45:34,490 [MAESTRO] INFO - Hora del Maestro: 09:45:32.783473
+2026-05-05 09:45:34,497 [MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 48906)
+2026-05-05 09:45:34,501 [MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 48920)
+2026-05-05 09:45:34,502 [MAESTRO] INFO - Hora recibida del Esclavo-1: 09:45:40.262691
+2026-05-05 09:45:34,507 [MAESTRO] INFO - Hora recibida del Esclavo-2: 09:45:41.098046
+2026-05-05 09:45:34,508 [MAESTRO] INFO - Hora promedio calculada: 09:45:38.048070
+2026-05-05 09:45:34,509 [MAESTRO] INFO - Nodos en el cálculo: ['master', 'slave_1', 'slave_2']
+2026-05-05 09:45:34,509 [MAESTRO] INFO - Ajuste propio del Maestro: +5.265s
+2026-05-05 09:45:34,511 [MAESTRO] INFO - Esclavo-1 ajustado en -2.215s
+2026-05-05 09:45:34,514 [MAESTRO] INFO - Esclavo-2 ajustado en -3.050s
+2026-05-05 09:45:34,515 [MAESTRO] INFO - Ronda de sincronización completada
+2026-05-05 09:45:34,515 [MAESTRO] INFO - ==================================================
+2026-05-05 09:45:34,515 [MAESTRO] INFO - Próxima sincronización en 10s...
+2026-05-05 09:45:40,501 [MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 48922)
+2026-05-05 09:45:40,504 [MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 48938)
+2026-05-05 09:45:44,515 [MAESTRO] INFO - ==================================================
+2026-05-05 09:45:44,516 [MAESTRO] INFO - Iniciando ronda de sincronización Berkeley
+2026-05-05 09:45:44,516 [MAESTRO] INFO - Hora del Maestro: 09:45:43.791945
+2026-05-05 09:45:44,519 [MAESTRO] INFO - Hora recibida del Esclavo-1: 09:45:48.065992
+2026-05-05 09:45:44,522 [MAESTRO] INFO - Hora recibida del Esclavo-2: 09:45:48.064110
+2026-05-05 09:45:44,524 [MAESTRO] INFO - Hora promedio calculada: 09:45:46.640682
+2026-05-05 09:45:44,524 [MAESTRO] INFO - Nodos en el cálculo: ['master', 'slave_1', 'slave_2']
+2026-05-05 09:45:44,524 [MAESTRO] INFO - Ajuste propio del Maestro: +2.849s
+2026-05-05 09:45:44,527 [MAESTRO] INFO - Esclavo-1 ajustado en -1.425s
+2026-05-05 09:45:44,531 [MAESTRO] INFO - Esclavo-2 ajustado en -1.423s
+2026-05-05 09:45:44,531 [MAESTRO] INFO - Ronda de sincronización completada
+2026-05-05 09:45:44,532 [MAESTRO] INFO - ==================================================
+2026-05-05 09:45:44,532 [MAESTRO] INFO - Próxima sincronización en 10s...
+2026-05-05 09:45:46,505 [MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 45506)
+2026-05-05 09:45:46,511 [MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 45518)
+2026-05-05 09:45:52,509 [MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 45520)
+2026-05-05 09:45:52,514 [MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 45528)
+2026-05-05 09:45:54,533 [MAESTRO] INFO - ==================================================
+2026-05-05 09:45:54,533 [MAESTRO] INFO - Iniciando ronda de sincronización Berkeley
+2026-05-05 09:45:54,534 [MAESTRO] INFO - Hora del Maestro: 09:45:52.838668
+2026-05-05 09:45:54,538 [MAESTRO] INFO - Hora recibida del Esclavo-1: 09:45:56.658819
+2026-05-05 09:45:54,541 [MAESTRO] INFO - Hora recibida del Esclavo-2: 09:45:56.659373
+2026-05-05 09:45:54,542 [MAESTRO] INFO - Hora promedio calculada: 09:45:55.385620
+2026-05-05 09:45:54,542 [MAESTRO] INFO - Nodos en el cálculo: ['master', 'slave_1', 'slave_2']
+2026-05-05 09:45:54,542 [MAESTRO] INFO - Ajuste propio del Maestro: +2.547s
+2026-05-05 09:45:54,545 [MAESTRO] INFO - Esclavo-1 ajustado en -1.273s
+2026-05-05 09:45:54,547 [MAESTRO] INFO - Esclavo-2 ajustado en -1.274s
+2026-05-05 09:45:54,548 [MAESTRO] INFO - Ronda de sincronización completada
+2026-05-05 09:45:54,548 [MAESTRO] INFO - ==================================================
+2026-05-05 09:45:54,548 [MAESTRO] INFO - Próxima sincronización en 10s...
+[MAESTRO] INFO - ★ Nodo MAESTRO arrancado ★
+[MAESTRO] INFO - Esperando 3 segundos a que los esclavos estén listos...
+[MAESTRO] INFO - Maestro escuchando en 127.0.0.1:5000
+[MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 45072)
+[MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 45078)
+[MAESTRO] INFO - ==================================================
+[MAESTRO] INFO - Iniciando ronda de sincronización Berkeley
+[MAESTRO] INFO - Hora del Maestro: 09:49:34.272422
+[MAESTRO] INFO - Hora recibida del Esclavo-1: 09:49:40.975210
+[MAESTRO] INFO - Hora recibida del Esclavo-2: 09:49:25.198174
+[MAESTRO] INFO - Hora promedio calculada: 09:49:33.481935
+[MAESTRO] INFO - Nodos en el cálculo: ['master', 'slave_1', 'slave_2']
+[MAESTRO] INFO - Ajuste propio del Maestro: -0.790s
+[MAESTRO] INFO - Esclavo-1 ajustado en -7.493s
+[MAESTRO] INFO - Esclavo-2 ajustado en +8.284s
+[MAESTRO] INFO - Ronda de sincronización completada
+[MAESTRO] INFO - ==================================================
+[MAESTRO] INFO - Próxima sincronización en 10s...
+[MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 48552)
+[MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 48562)
+[MAESTRO] INFO - ==================================================
+[MAESTRO] INFO - Iniciando ronda de sincronización Berkeley
+[MAESTRO] INFO - Hora del Maestro: 09:49:43.226345
+[MAESTRO] INFO - Hora recibida del Esclavo-1: 09:49:43.497834
+[MAESTRO] INFO - Hora recibida del Esclavo-2: 09:49:43.498927
+[MAESTRO] INFO - Hora promedio calculada: 09:49:43.407702
+[MAESTRO] INFO - Nodos en el cálculo: ['master', 'slave_1', 'slave_2']
+[MAESTRO] INFO - Ajuste propio del Maestro: +0.181s
+[MAESTRO] INFO - Esclavo-1 ajustado en -0.090s
+[MAESTRO] INFO - Esclavo-2 ajustado en -0.091s
+[MAESTRO] INFO - Ronda de sincronización completada
+[MAESTRO] INFO - ==================================================
+[MAESTRO] INFO - Próxima sincronización en 10s...
+[MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 48800)
+[MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 48816)
+[MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 48818)
+[MAESTRO] INFO - Mensaje de elección recibido de ('127.0.0.1', 48834)
+[MAESTRO] INFO - ==================================================
+[MAESTRO] INFO - Iniciando ronda de sincronización Berkeley
+[MAESTRO] INFO - Hora del Maestro: 09:49:53.651000
+[MAESTRO] INFO - Hora recibida del Esclavo-1: 09:49:53.423278
+[MAESTRO] INFO - Hora recibida del Esclavo-2: 09:49:53.422097
+[MAESTRO] INFO - Hora promedio calculada: 09:49:53.498792
+[MAESTRO] INFO - Nodos en el cálculo: ['master', 'slave_1', 'slave_2']
+[MAESTRO] INFO - Ajuste propio del Maestro: -0.152s
+[MAESTRO] INFO - Esclavo-1 ajustado en +0.076s
+[MAESTRO] INFO - Esclavo-2 ajustado en +0.077s
+[MAESTRO] INFO - Ronda de sincronización completada
+[MAESTRO] INFO - ==================================================
+[MAESTRO] INFO - Próxima sincronización en 10s...
